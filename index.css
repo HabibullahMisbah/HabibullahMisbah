@@ -1,0 +1,214 @@
+* {
+      margin: 0%;
+      padding: 0%;
+}
+
+body {
+      margin-left: 10px;
+      margin-right: 10px;
+      background-color: rgba(89, 162, 180, 0.562);
+      font-family: 'Noto Serif Bengali', serif;
+
+}
+
+.div-1 {
+      background-color: rgb(5, 2, 22);
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 25px;
+}
+
+.image-style {
+      width: 100px;
+      height: 125px;
+      border: 3px solid rgb(236, 100, 51);
+      border-radius: 100%;
+      float: left;
+}
+
+.div-2 {
+      float: left;
+      padding: 35px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+      color: rgb(253, 253, 253);
+
+}
+
+.div-2 h3 {
+      display: inline;
+      text-align: justify;
+}
+
+.div-2 a {
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+}
+
+.div-2 a:hover {
+      text-decoration: underline;
+      color: darkorange;
+
+}
+
+.div-3 {
+      float: right;
+      color: aliceblue;
+      margin-top: 20px;
+}
+
+.div-3 h3 {
+      color: rgb(253, 253, 253);
+      font-weight: bold;
+      font-size: larger;
+}
+
+.div-3 a {
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+}
+
+.div-3 a:hover {
+      text-decoration: underline;
+      color: darkorange;
+
+}
+
+.div-4 {
+      clear: both;
+}
+
+hr {
+      border: solid rgb(230, 218, 56) 2px;
+      width: 100%;
+      margin: 10px auto;
+      border-bottom: none;
+
+}
+
+#section-1 {}
+
+.div-5 {}
+
+.div-6 {
+      text-align: left;
+      margin-top: 100px;
+      width: 30%;
+      float: left;
+}
+
+.div-6 h2 {
+      border-right: solid;
+      margin-right: 25%;
+      color: beige;
+}
+
+
+.div-7 {
+      width: 70%;
+      float: left;
+      color: beige;
+      font-size: 20px;
+      text-align: justify;
+}
+
+.div-7 a {
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+}
+
+.div-7 a:hover {
+      text-decoration: underline;
+      color: darkorange;
+
+}
+
+.div-9 {
+      text-align: left;
+      margin-top: 300px;
+      width: 30%;
+      float: left;
+}
+
+.div-9 h2 {
+      margin-left: 80px;
+      border-right: solid;
+      margin-right: 20%;
+      color: beige;
+}
+
+.div-10 {
+      width: 70%;
+      float: left;
+      color: beige;
+      font-size: 20px;
+      text-align: justify;
+}
+
+.div-10 a {
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+}
+
+.div-10 a:hover {
+      text-decoration: underline;
+      color: darkorange;
+
+}
+
+.footer {
+      background-color: rgba(50, 114, 209, 0.151);
+      margin-top: 5px;
+      height: 1in;
+      text-align: center;
+      padding-top: 15px;
+      color: rgb(253, 253, 253);
+
+}
+
+.footer p {
+      padding: 15px;
+      font-size: 30px;
+      display: inline;
+
+}
+
+.footer a {
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+}
+
+.footer a:hover {
+      text-decoration: underline;
+      color: darkorange;
+
+}
+
+.copyright p {
+      color: cornsilk;
+      display: block;
+      text-size-adjust: inherit;
+
+}
+
+.copyright a {
+
+      font-size: medium;
+}
+
+.heding-color {
+      color: #ecf01a;
+
+}
+
